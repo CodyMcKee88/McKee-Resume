@@ -1,14 +1,13 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Cody McKee's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Cody McKee
+I am in my last year of BYUI with a 3.0 GPA. 
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
 </div>
 
@@ -16,74 +15,62 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2019-2023`
+__Brigham Young University-Idaho__, Rexburg, ID
 
-- Full academic scholarship with 4.0 GPA
+- Business Analytics Major. Related Coursework: Business Fundamentals, Business Statistics, Introduction to Excel, Spreadsheet Analysis for Business, Accounting, 
+and Programming with Functions
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
+`2016`
+__Blue Springs High School__, Blue Springs, MO
 
-- 4.0 Major GPA
-
+- High School Diploma
 
 ## Related Experience
 
-### Internships
+### Stadium Operations- Stadium Services Seasonal Assistant
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`January 2023 - Present`
+__Kansas City Chiefs__, Kansas City, MO
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+• Managed attendance of game day staff by using Microsoft Excel
+• Collaborated with supervisors to assist with different projects every day
+• Developed spreadsheets to help maintain adequate records of different game day staff
 
-### Data Science Lead
+### Operations Administrator
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`June 2021-April 2023`
+__FedEx Ground__, Rigby, ID
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+• Led 50+ employees each month in a meeting to discuss increasing safety
+• Taught and maintained reports on packages including lost and damaged packages
+• Created monthly Excel spreadsheet for facility package analytics reporting to management
+• Maintained adequate records of current equipment inventory using Microsoft Exce
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+### Package Handler
 
-### Data Science Consulting Team
+`January 2021 - June 2021`
+__FedEx Ground__, Rigby, ID
 
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
+• Organized trailers and trucks with packages to maximize space available
+• Prepared scanners to allow efficiency and productivity of other employees
+• Trained other employees on safety measures needed to efficiently handle and load package
 `April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
 
 
-## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+## Service 
 
 
-`2023-2025`
-__Service Missionary__, South Africa
+
+`2017-2019`
+__Missionary for The Church of Jesus Christ of Latter-Day Saints__, Las Vegas, Nevada
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: December 2023-->
 
 
