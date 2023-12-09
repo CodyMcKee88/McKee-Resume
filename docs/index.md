@@ -6,9 +6,7 @@ title: Cody McKee's Resume
 I am in my last year of BYUI with a 3.0 GPA. 
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="mck16010@byui.edu">datascience@byui.edu</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
